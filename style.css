@@ -1,0 +1,48 @@
+/**
+ * Student Bio Homework
+ **/
+
+* {
+    box-sizing: border-box;
+    background-color: #eee;
+}
+
+
+h1{
+    text-align: center;
+    color: #fff;
+    background-color: #333333;
+    padding: 20px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+#left{
+    float: left;
+    width: 20%;
+    margin-left: 5%;
+}
+
+#middle{
+    float: left;
+    width: 45%;
+    padding-top: 50px
+}
+
+#right{
+    float: left;
+    width: 25%;
+    margin-right:5%;
+}
+
+table{
+    background-color:#000;
+    clear: both;
+    margin: auto;
+}
+
+iframe{
+    width:60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
